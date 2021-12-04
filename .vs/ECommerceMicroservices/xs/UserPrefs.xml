@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{431D1284-9BB6-4E80-A5E8-52287BF6FCF7}|Default">
+  <MonoDevelop.Ide.ItemProperties.Services.Catalog.Services.Catalog PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/Catalog/Services.Catalog/Startup.cs">
+    <Files>
+      <File FileName="Shared/Microservices.Shared/ControllerBases/CustomBaseController.cs" Line="14" Column="9" />
+      <File FileName="Services/Catalog/Services.Catalog/Controllers/CategoriesController.cs" Line="22" Column="6" />
+      <File FileName="Services/Catalog/Services.Catalog/Services/CategoryService.cs" Line="13" Column="9" />
+      <File FileName="Services/Catalog/Services.Catalog/Services/ICategoryService.cs" Line="16" Column="1" />
+      <File FileName="Services/Catalog/Services.Catalog/Controllers/CoursesController.cs" Line="39" Column="14" />
+      <File FileName="Services/Catalog/Services.Catalog/Startup.cs" Line="50" Column="74" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ECommerceMicroservices" expanded="True">
+            <Node name="Services" expanded="True">
+              <Node name="Catalog" expanded="True">
+                <Node name="Services.Catalog" expanded="True">
+                  <Node name="Startup.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Shared" expanded="True">
+              <Node name="Microservices.Shared" expanded="True">
+                <Node name="ControllerBases" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

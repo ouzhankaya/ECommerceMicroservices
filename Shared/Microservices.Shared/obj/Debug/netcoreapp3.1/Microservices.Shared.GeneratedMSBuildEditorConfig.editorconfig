@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Microservices.Shared
+build_property.ProjectDir = /Users/oguzhankaya/Projects/ECommerceMicroservices/Shared/Microservices.Shared/

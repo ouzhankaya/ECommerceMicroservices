@@ -1,0 +1,10 @@
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Shared/Microservices.Shared/bin/Debug/netcoreapp3.1/Microservices.Shared.deps.json
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Shared/Microservices.Shared/bin/Debug/netcoreapp3.1/Microservices.Shared.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Shared/Microservices.Shared/bin/Debug/netcoreapp3.1/Microservices.Shared.pdb
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Shared/Microservices.Shared/obj/Debug/netcoreapp3.1/Microservices.Shared.csproj.AssemblyReference.cache
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Shared/Microservices.Shared/obj/Debug/netcoreapp3.1/Microservices.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Shared/Microservices.Shared/obj/Debug/netcoreapp3.1/Microservices.Shared.AssemblyInfoInputs.cache
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Shared/Microservices.Shared/obj/Debug/netcoreapp3.1/Microservices.Shared.AssemblyInfo.cs
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Shared/Microservices.Shared/obj/Debug/netcoreapp3.1/Microservices.Shared.csproj.CoreCompileInputs.cache
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Shared/Microservices.Shared/obj/Debug/netcoreapp3.1/Microservices.Shared.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Shared/Microservices.Shared/obj/Debug/netcoreapp3.1/Microservices.Shared.pdb
