@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ECommerceMicroservices.IdentityServer
+build_property.ProjectDir = /Users/oguzhankaya/Projects/ECommerceMicroservices/IdentityServer/ECommerceMicroservices.IdentityServer/

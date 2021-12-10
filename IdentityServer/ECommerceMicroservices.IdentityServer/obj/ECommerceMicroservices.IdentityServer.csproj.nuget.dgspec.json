@@ -1,0 +1,168 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/oguzhankaya/Projects/ECommerceMicroservices/IdentityServer/ECommerceMicroservices.IdentityServer/ECommerceMicroservices.IdentityServer.csproj": {}
+  },
+  "projects": {
+    "/Users/oguzhankaya/Projects/ECommerceMicroservices/IdentityServer/ECommerceMicroservices.IdentityServer/ECommerceMicroservices.IdentityServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oguzhankaya/Projects/ECommerceMicroservices/IdentityServer/ECommerceMicroservices.IdentityServer/ECommerceMicroservices.IdentityServer.csproj",
+        "projectName": "ECommerceMicroservices.IdentityServer",
+        "projectPath": "/Users/oguzhankaya/Projects/ECommerceMicroservices/IdentityServer/ECommerceMicroservices.IdentityServer/ECommerceMicroservices.IdentityServer.csproj",
+        "packagesPath": "/Users/oguzhankaya/.nuget/packages/",
+        "outputPath": "/Users/oguzhankaya/Projects/ECommerceMicroservices/IdentityServer/ECommerceMicroservices.IdentityServer/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/oguzhankaya/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/oguzhankaya/Projects/ECommerceMicroservices/Shared/Microservices.Shared/Microservices.Shared.csproj": {
+                "projectPath": "/Users/oguzhankaya/Projects/ECommerceMicroservices/Shared/Microservices.Shared/Microservices.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "IdentityServer4.AspNetIdentity": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/oguzhankaya/Projects/ECommerceMicroservices/Shared/Microservices.Shared/Microservices.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oguzhankaya/Projects/ECommerceMicroservices/Shared/Microservices.Shared/Microservices.Shared.csproj",
+        "projectName": "Microservices.Shared",
+        "projectPath": "/Users/oguzhankaya/Projects/ECommerceMicroservices/Shared/Microservices.Shared/Microservices.Shared.csproj",
+        "packagesPath": "/Users/oguzhankaya/.nuget/packages/",
+        "outputPath": "/Users/oguzhankaya/Projects/ECommerceMicroservices/Shared/Microservices.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/oguzhankaya/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
