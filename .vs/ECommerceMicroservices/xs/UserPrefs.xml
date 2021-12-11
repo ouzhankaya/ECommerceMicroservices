@@ -1,32 +1,39 @@
 ﻿<Properties StartupConfiguration="Multiple Projects">
   <MonoDevelop.Ide.ItemProperties.IdentityServer.ECommerceMicroservices.IdentityServer PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.Services.Catalog.Services.Catalog PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Services/Catalog/Services.Catalog/Controllers/CategoriesController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/PhotoStock/Services.PhotoStock/Controllers/PhotosController.cs">
     <Files>
-      <File FileName="IdentityServer/ECommerceMicroservices.IdentityServer/Controllers/UserController.cs" Line="16" Column="48" />
-      <File FileName="IdentityServer/ECommerceMicroservices.IdentityServer/Services/IdentityResourceOwnerPasswordValidator.cs" Line="30" Column="16" />
-      <File FileName="Services/Catalog/Services.Catalog/Controllers/CategoriesController.cs" Line="22" Column="6" />
+      <File FileName="Services/PhotoStock/Services.PhotoStock/Startup.cs" Line="34" Column="10" />
+      <File FileName="Services/PhotoStock/Services.PhotoStock/appsettings.json" Line="2" Column="48" />
+      <File FileName="Services/PhotoStock/Services.PhotoStock/Controllers/PhotosController.cs" Line="39" Column="53" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ECommerceMicroservices" expanded="True">
             <Node name="Services" expanded="True">
-              <Node name="Catalog" expanded="True">
-                <Node name="Services.Catalog" expanded="True">
+              <Node name="Catalog" expanded="True" />
+              <Node name="PhotoStock" expanded="True">
+                <Node name="Services.PhotoStock" expanded="True">
+                  <Node name="Dependencies" expanded="True" />
                   <Node name="Controllers" expanded="True">
-                    <Node name="CategoriesController.cs" selected="True" />
+                    <Node name="PhotosController.cs" selected="True" />
+                  </Node>
+                  <Node name="Dtos" expanded="True" />
+                  <Node name="wwwroot" expanded="True">
+                    <Node name="photos" expanded="True" />
                   </Node>
                 </Node>
               </Node>
             </Node>
-            <Node name="Shared" expanded="True" />
+            <Node name="Solution Items" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Services.PhotoStock.Services.PhotoStock PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
@@ -34,7 +41,9 @@
   <MultiItemStartupConfigurations>
     <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
       <Items>
+        <StartupItem ItemId="{2E9807B1-3B39-4E8F-855F-3CA96FC16B1B}" ItemName="ECommerceMicroservices.IdentityServer" ConfigurationId="SelfHost" />
         <StartupItem ItemId="{431D1284-9BB6-4E80-A5E8-52287BF6FCF7}" ItemName="Services.Catalog" ConfigurationId="Default" />
+        <StartupItem ItemId="{F840890A-9421-4360-B8A7-94FE4161EA9B}" ItemName="Services.PhotoStock" ConfigurationId="Default" />
       </Items>
     </MultiItemSolutionRunConfiguration>
   </MultiItemStartupConfigurations>
