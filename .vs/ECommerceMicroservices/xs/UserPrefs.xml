@@ -1,32 +1,33 @@
 ﻿<Properties StartupConfiguration="Multiple Projects">
   <MonoDevelop.Ide.ItemProperties.IdentityServer.ECommerceMicroservices.IdentityServer PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.Services.Catalog.Services.Catalog PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Services/PhotoStock/Services.PhotoStock/Controllers/PhotosController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/Basket/Services.Basker/Dtos/BasketDto.cs">
     <Files>
-      <File FileName="Services/PhotoStock/Services.PhotoStock/Startup.cs" Line="34" Column="10" />
-      <File FileName="Services/PhotoStock/Services.PhotoStock/appsettings.json" Line="2" Column="48" />
-      <File FileName="Services/PhotoStock/Services.PhotoStock/Controllers/PhotosController.cs" Line="39" Column="53" />
+      <File FileName="Services/Basket/Services.Basker/Startup.cs" Line="36" Column="72" />
+      <File FileName="Services/Basket/Services.Basker/Controllers/BasketsController.cs" Line="30" Column="1" />
+      <File FileName="Services/Basket/Services.Basker/Services/BasketService.cs" Line="36" Column="45" />
+      <File FileName="Services/Basket/Services.Basker/Program.cs" Line="16" Column="1" />
+      <File FileName="IdentityServer/ECommerceMicroservices.IdentityServer/Program.cs" Line="62" Column="1" />
+      <File FileName="Services/Basket/Services.Basker/Services/RedisService.cs" Line="22" Column="82" />
+      <File FileName="Services/Basket/Services.Basker/appsettings.json" Line="13" Column="48" />
+      <File FileName="Services/Basket/Services.Basker/Dtos/BasketDto.cs" Line="11" Column="43" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ECommerceMicroservices" expanded="True">
+            <Node name="IdentityServer" expanded="True" />
             <Node name="Services" expanded="True">
-              <Node name="Catalog" expanded="True" />
-              <Node name="PhotoStock" expanded="True">
-                <Node name="Services.PhotoStock" expanded="True">
-                  <Node name="Dependencies" expanded="True" />
-                  <Node name="Controllers" expanded="True">
-                    <Node name="PhotosController.cs" selected="True" />
+              <Node name="Basket" expanded="True">
+                <Node name="Services.Basket" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Dtos" expanded="True">
+                    <Node name="BasketDto.cs" selected="True" />
                   </Node>
-                  <Node name="Dtos" expanded="True" />
-                  <Node name="wwwroot" expanded="True">
-                    <Node name="photos" expanded="True" />
-                  </Node>
+                  <Node name="Services" expanded="True" />
                 </Node>
               </Node>
             </Node>
-            <Node name="Solution Items" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -34,6 +35,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Services.PhotoStock.Services.PhotoStock PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Services.Basket.Services.Basket PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
@@ -42,8 +44,7 @@
     <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
       <Items>
         <StartupItem ItemId="{2E9807B1-3B39-4E8F-855F-3CA96FC16B1B}" ItemName="ECommerceMicroservices.IdentityServer" ConfigurationId="SelfHost" />
-        <StartupItem ItemId="{431D1284-9BB6-4E80-A5E8-52287BF6FCF7}" ItemName="Services.Catalog" ConfigurationId="Default" />
-        <StartupItem ItemId="{F840890A-9421-4360-B8A7-94FE4161EA9B}" ItemName="Services.PhotoStock" ConfigurationId="Default" />
+        <StartupItem ItemId="{0BFF5AE9-AFEB-4595-888F-E1A87D9540CA}" ItemName="Services.Basket" ConfigurationId="Services.Basker" />
       </Items>
     </MultiItemSolutionRunConfiguration>
   </MultiItemStartupConfigurations>
