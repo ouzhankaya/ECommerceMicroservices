@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Discount/Services.Discount/Services.Discount.csproj": {}
+  },
+  "projects": {
+    "/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Discount/Services.Discount/Services.Discount.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Discount/Services.Discount/Services.Discount.csproj",
+        "projectName": "Services.Discount",
+        "projectPath": "/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Discount/Services.Discount/Services.Discount.csproj",
+        "packagesPath": "/Users/oguzhankaya/.nuget/packages/",
+        "outputPath": "/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Discount/Services.Discount/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/oguzhankaya/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/oguzhankaya/Projects/ECommerceMicroservices/Shared/Microservices.Shared/Microservices.Shared.csproj": {
+                "projectPath": "/Users/oguzhankaya/Projects/ECommerceMicroservices/Shared/Microservices.Shared/Microservices.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/oguzhankaya/Projects/ECommerceMicroservices/Shared/Microservices.Shared/Microservices.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oguzhankaya/Projects/ECommerceMicroservices/Shared/Microservices.Shared/Microservices.Shared.csproj",
+        "projectName": "Microservices.Shared",
+        "projectPath": "/Users/oguzhankaya/Projects/ECommerceMicroservices/Shared/Microservices.Shared/Microservices.Shared.csproj",
+        "packagesPath": "/Users/oguzhankaya/.nuget/packages/",
+        "outputPath": "/Users/oguzhankaya/Projects/ECommerceMicroservices/Shared/Microservices.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/oguzhankaya/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

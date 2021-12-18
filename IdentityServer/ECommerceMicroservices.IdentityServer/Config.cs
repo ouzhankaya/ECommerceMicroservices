@@ -18,6 +18,7 @@ namespace ECommerceMicroservices.IdentityServer
          new ApiResource("resource_catalog"){Scopes = {"catalog_fullpermission"}},
          new ApiResource("resource_photo_stock"){Scopes = {"photo_stock_fullpermission"}},
          new ApiResource("resource_basket"){Scopes = {"basket_fullpermission"}},
+          new ApiResource("resource_discount"){Scopes = {"discount_fullpermission"}},
          new ApiResource(IdentityServerConstants.LocalApi.ScopeName)
       };
 
@@ -37,6 +38,7 @@ namespace ECommerceMicroservices.IdentityServer
                new ApiScope("catalog_fullpermission", "Full access to Catalog microservice"),
                new ApiScope("photo_stock_fullpermission", "Full access to Photo Stock microservice"),
                new ApiScope("basket_fullpermission", "Full access to Basket microservice"),
+               new ApiScope("discount_fullpermission", "Full access to Discount microservice"),
                new ApiScope(IdentityServerConstants.LocalApi.ScopeName)
             };
 
@@ -58,7 +60,7 @@ namespace ECommerceMicroservices.IdentityServer
                   AllowOfflineAccess = true,
                   ClientSecrets = {new Secret("SecretKey".Sha256())},
                   AllowedGrantTypes = GrantTypes.ResourceOwnerPassword,
-                  AllowedScopes = {"basket_fullpermission",IdentityServerConstants.StandardScopes.Email, IdentityServerConstants.StandardScopes.OpenId, IdentityServerConstants.StandardScopes.Profile,
+                  AllowedScopes = {"basket_fullpermission","discount_fullpermission",IdentityServerConstants.StandardScopes.Email, IdentityServerConstants.StandardScopes.OpenId, IdentityServerConstants.StandardScopes.Profile,
                    IdentityServerConstants.StandardScopes.OfflineAccess, IdentityServerConstants.LocalApi.ScopeName, "roles"},
                   AccessTokenLifetime = 1* 60* 60,
                   RefreshTokenExpiration = TokenExpiration.Absolute,
