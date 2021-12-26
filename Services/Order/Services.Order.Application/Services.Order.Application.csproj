@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Services.Order.Domain\Services.Order.Domain.csproj" />
+    <ProjectReference Include="..\Services.Order.Infrastracture\Services.Order.Infrastracture.csproj" />
+    <ProjectReference Include="..\..\..\Shared\Microservices.Shared\Microservices.Shared.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Dtos\" />
+    <None Remove="AutoMapper" />
+    <None Remove="Mapping\" />
+    <None Remove="Queries\" />
+    <None Remove="Handlers\" />
+    <None Remove="Commands\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Dtos\" />
+    <Folder Include="Mapping\" />
+    <Folder Include="Queries\" />
+    <Folder Include="Handlers\" />
+    <Folder Include="Commands\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+</Project>

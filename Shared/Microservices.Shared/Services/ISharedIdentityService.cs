@@ -1,7 +1,7 @@
 using System;
 namespace Microservices.Shared.Services
 {
-  public interface ISharedIdentiyService
+  public interface ISharedIdentityService
   {
     public string GetUserId { get; }
   }

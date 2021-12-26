@@ -1,0 +1,12 @@
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.Domain.Core/bin/Debug/net5.0/Services.Order.Domain.Core.deps.json
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.Domain.Core/bin/Debug/net5.0/Services.Order.Domain.Core.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.Domain.Core/bin/Debug/net5.0/ref/Services.Order.Domain.Core.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.Domain.Core/bin/Debug/net5.0/Services.Order.Domain.Core.pdb
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.Domain.Core/obj/Debug/net5.0/Services.Order.Domain.Core.csproj.AssemblyReference.cache
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.Domain.Core/obj/Debug/net5.0/Services.Order.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.Domain.Core/obj/Debug/net5.0/Services.Order.Domain.Core.AssemblyInfoInputs.cache
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.Domain.Core/obj/Debug/net5.0/Services.Order.Domain.Core.AssemblyInfo.cs
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.Domain.Core/obj/Debug/net5.0/Services.Order.Domain.Core.csproj.CoreCompileInputs.cache
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.Domain.Core/obj/Debug/net5.0/Services.Order.Domain.Core.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.Domain.Core/obj/Debug/net5.0/ref/Services.Order.Domain.Core.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.Domain.Core/obj/Debug/net5.0/Services.Order.Domain.Core.pdb

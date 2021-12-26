@@ -16,9 +16,9 @@ namespace Services.Basket.Controllers
   public class BasketsController : CustomBaseController
   {
     private readonly IBasketService _basketService;
-    private readonly ISharedIdentiyService _sharedIdentiyService;
+    private readonly ISharedIdentityService _sharedIdentiyService;
 
-    public BasketsController(IBasketService basketService, ISharedIdentiyService sharedIdentiyService)
+    public BasketsController(IBasketService basketService, ISharedIdentityService sharedIdentiyService)
     {
       _basketService = basketService;
       _sharedIdentiyService = sharedIdentiyService;

@@ -15,9 +15,9 @@ namespace Services.Discount.Controllers
   public class DiscountsController : CustomBaseController
   {
     private readonly IDiscountService _discountService;
-    private readonly ISharedIdentiyService _sharedIdentityService;
+    private readonly ISharedIdentityService _sharedIdentityService;
 
-    public DiscountsController(IDiscountService discountService, ISharedIdentiyService sharedIdentityService)
+    public DiscountsController(IDiscountService discountService, ISharedIdentityService sharedIdentityService)
     {
       _discountService = discountService;
       _sharedIdentityService = sharedIdentityService;

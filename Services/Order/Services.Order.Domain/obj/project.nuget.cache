@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1J3wj1r8/T0NJZ3fuIbFoAaRJYZ1HT/GRt4+JkM3TgayMIBboNacY6VVb6Pj4wJOPLo+Ije0lwSHtGdPDAONpg==",
+  "success": true,
+  "projectFilePath": "/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.Domain/Services.Order.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/oguzhankaya/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.0.0/microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
