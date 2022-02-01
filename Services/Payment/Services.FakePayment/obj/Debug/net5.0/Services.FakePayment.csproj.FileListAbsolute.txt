@@ -35,3 +35,15 @@
 /Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Payment/Services.FakePayment/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
 /Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Payment/Services.FakePayment/bin/Debug/net5.0/Microservices.Shared.dll
 /Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Payment/Services.FakePayment/bin/Debug/net5.0/Microservices.Shared.pdb
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Payment/Services.FakePayment/bin/Debug/net5.0/Automatonymous.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Payment/Services.FakePayment/bin/Debug/net5.0/GreenPipes.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Payment/Services.FakePayment/bin/Debug/net5.0/MassTransit.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Payment/Services.FakePayment/bin/Debug/net5.0/MassTransit.AspNetCoreIntegration.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Payment/Services.FakePayment/bin/Debug/net5.0/MassTransit.ExtensionsDependencyInjectionIntegration.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Payment/Services.FakePayment/bin/Debug/net5.0/MassTransit.RabbitMqTransport.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Payment/Services.FakePayment/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Payment/Services.FakePayment/bin/Debug/net5.0/NewId.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Payment/Services.FakePayment/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Payment/Services.FakePayment/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Payment/Services.FakePayment/bin/Debug/net5.0/RabbitMQ.Client.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Payment/Services.FakePayment/bin/Debug/net5.0/System.Text.Json.dll

@@ -19,7 +19,7 @@
     },
     "Services.Order.API": {
       "commandName": "Project",
-      "launchBrowser": true,
+      "launchBrowser": false,
       "launchUrl": "swagger",
       "applicationUrl": "http://localhost:5015",
       "environmentVariables": {

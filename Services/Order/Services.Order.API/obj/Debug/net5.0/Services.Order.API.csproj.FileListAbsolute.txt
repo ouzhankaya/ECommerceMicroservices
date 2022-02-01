@@ -71,3 +71,15 @@
 /Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.API/obj/Debug/net5.0/ref/Services.Order.API.dll
 /Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.API/obj/Debug/net5.0/Services.Order.API.pdb
 /Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.API/obj/Debug/net5.0/Services.Order.API.genruntimeconfig.cache
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.API/bin/Debug/net5.0/Automatonymous.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.API/bin/Debug/net5.0/GreenPipes.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.API/bin/Debug/net5.0/MassTransit.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.API/bin/Debug/net5.0/MassTransit.AspNetCoreIntegration.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.API/bin/Debug/net5.0/MassTransit.ExtensionsDependencyInjectionIntegration.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.API/bin/Debug/net5.0/MassTransit.RabbitMqTransport.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.API/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.API/bin/Debug/net5.0/NewId.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.API/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.API/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.API/bin/Debug/net5.0/RabbitMQ.Client.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.API/bin/Debug/net5.0/System.Text.Json.dll

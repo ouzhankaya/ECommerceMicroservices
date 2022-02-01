@@ -45,14 +45,14 @@ namespace Services.Catalog.Controllers
     }
 
     [HttpPost]
-    public async Task<IActionResult> Create(CourseCreateDto courseCreateDto)
+    public async Task<IActionResult> Create([FromBody]CourseCreateDto courseCreateDto)
     {
       var response = await _courseService.CreateAsync(courseCreateDto);
       return CreateActionResultInstance(response);
     }
 
     [HttpPut]
-    public async Task<IActionResult> Update(CourseUpdateDto courseUpdateDto)
+    public async Task<IActionResult> Update([FromBody]CourseUpdateDto courseUpdateDto)
     {
       var response = await _courseService.UpdateAsync(courseUpdateDto);
       return CreateActionResultInstance(response);

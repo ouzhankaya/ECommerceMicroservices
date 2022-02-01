@@ -31,3 +31,10 @@
 /Users/oguzhankaya/Projects/ECommerceMicroservices/Gateways/Gateway/bin/Debug/net5.0/Ocelot.dll
 /Users/oguzhankaya/Projects/ECommerceMicroservices/Gateways/Gateway/obj/Debug/net5.0/Gateway.MvcApplicationPartsAssemblyInfo.cs
 /Users/oguzhankaya/Projects/ECommerceMicroservices/Gateways/Gateway/obj/Debug/net5.0/Gateway.csproj.CopyComplete
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Gateways/Gateway/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Gateways/Gateway/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Gateways/Gateway/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Gateways/Gateway/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Gateways/Gateway/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Gateways/Gateway/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/oguzhankaya/Projects/ECommerceMicroservices/Gateways/Gateway/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll

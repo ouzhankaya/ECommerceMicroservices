@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "SgyfLWtxD6ewrXa0YouzMc+8EhlYv0+5aSwXMd9SZtKUvLVQsdmK8nMkG/pHco5g+HIGKl6TwQqMMeLuFJXUkQ==",
+  "success": true,
+  "projectFilePath": "/Users/oguzhankaya/Projects/ECommerceMicroservices/Frontends/ECommerce.Web/ECommerce.Web.csproj",
+  "expectedPackageFiles": [
+    "/Users/oguzhankaya/.nuget/packages/fluentvalidation/10.3.6/fluentvalidation.10.3.6.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/fluentvalidation.aspnetcore/10.3.6/fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.3.6/fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/identitymodel/5.2.0/identitymodel.5.2.0.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/identitymodel.aspnetcore/4.1.2/identitymodel.aspnetcore.4.1.2.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/5.0.0/microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.10.0/microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.identitymodel.logging/6.10.0/microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.identitymodel.protocols/6.10.0/microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.10.0/microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.identitymodel.tokens/6.10.0/microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/system.identitymodel.tokens.jwt/6.10.0/system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
