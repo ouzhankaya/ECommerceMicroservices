@@ -96,6 +96,7 @@
 /Users/oguzhankaya/Projects/ECommerceMicroservices/IdentityServer/ECommerceMicroservices.IdentityServer/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
 /Users/oguzhankaya/Projects/ECommerceMicroservices/IdentityServer/ECommerceMicroservices.IdentityServer/bin/Debug/netcoreapp3.1/Microservices.Shared.dll
 /Users/oguzhankaya/Projects/ECommerceMicroservices/IdentityServer/ECommerceMicroservices.IdentityServer/bin/Debug/netcoreapp3.1/Microservices.Shared.pdb
+/Users/oguzhankaya/Projects/ECommerceMicroservices/IdentityServer/ECommerceMicroservices.IdentityServer/obj/Debug/netcoreapp3.1/ECommerceMicroservices.IdentityServer.csproj.AssemblyReference.cache
 /Users/oguzhankaya/Projects/ECommerceMicroservices/IdentityServer/ECommerceMicroservices.IdentityServer/obj/Debug/netcoreapp3.1/ECommerceMicroservices.IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
 /Users/oguzhankaya/Projects/ECommerceMicroservices/IdentityServer/ECommerceMicroservices.IdentityServer/obj/Debug/netcoreapp3.1/ECommerceMicroservices.IdentityServer.AssemblyInfoInputs.cache
 /Users/oguzhankaya/Projects/ECommerceMicroservices/IdentityServer/ECommerceMicroservices.IdentityServer/obj/Debug/netcoreapp3.1/ECommerceMicroservices.IdentityServer.AssemblyInfo.cs
@@ -136,4 +137,3 @@
 /Users/oguzhankaya/Projects/ECommerceMicroservices/IdentityServer/ECommerceMicroservices.IdentityServer/obj/Debug/netcoreapp3.1/ECommerceMicroservices.IdentityServer.dll
 /Users/oguzhankaya/Projects/ECommerceMicroservices/IdentityServer/ECommerceMicroservices.IdentityServer/obj/Debug/netcoreapp3.1/ECommerceMicroservices.IdentityServer.pdb
 /Users/oguzhankaya/Projects/ECommerceMicroservices/IdentityServer/ECommerceMicroservices.IdentityServer/obj/Debug/netcoreapp3.1/ECommerceMicroservices.IdentityServer.genruntimeconfig.cache
-/Users/oguzhankaya/Projects/ECommerceMicroservices/IdentityServer/ECommerceMicroservices.IdentityServer/obj/Debug/netcoreapp3.1/ECommerceMicroservices.IdentityServer.csproj.AssemblyReference.cache

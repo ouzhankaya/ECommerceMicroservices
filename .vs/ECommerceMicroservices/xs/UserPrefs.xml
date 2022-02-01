@@ -1,29 +1,51 @@
 ﻿<Properties StartupConfiguration="Multiple Projects">
   <MonoDevelop.Ide.ItemProperties.IdentityServer.ECommerceMicroservices.IdentityServer PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.Services.Catalog.Services.Catalog PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Services/Discount/Services.Discount/Controllers/DiscountsController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Frontends/ECommerce.Web/Handler/ResourceOwnerPasswordTokenHandler.cs">
     <Files>
-      <File FileName="Services/Discount/Services.Discount/Services/DiscountService.cs" Line="25" Column="1" />
-      <File FileName="Services/Discount/Services.Discount/appsettings.json" Line="3" Column="133" />
-      <File FileName="IdentityServer/ECommerceMicroservices.IdentityServer/Properties/launchSettings.json" Line="5" Column="29" />
-      <File FileName="Services/Discount/Services.Discount/Controllers/DiscountsController.cs" Line="47" Column="55" />
+      <File FileName="Frontends/ECommerce.Web/obj/Debug/net5.0/Razor/Views/Auth/SignIn.cshtml.g.cs" Line="52" Column="101" />
+      <File FileName="Frontends/ECommerce.Web/Handler/ResourceOwnerPasswordTokenHandler.cs" Line="49" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ECommerceMicroservices" expanded="True">
-            <Node name="IdentityServer" expanded="True">
-              <Node name="ECommerceMicroservices.IdentityServer" expanded="True">
-                <Node name="Properties" expanded="True" />
+            <Node name="Frontend" expanded="True">
+              <Node name="ECommerce.Web" expanded="True">
+                <Node name="Controllers" expanded="True" />
+                <Node name="Handler" expanded="True">
+                  <Node name="ResourceOwnerPasswordTokenHandler.cs" selected="True" />
+                </Node>
+                <Node name="Models" expanded="True">
+                  <Node name="Catalogs" expanded="True" />
+                  <Node name="Orders" expanded="True" />
+                </Node>
+                <Node name="Services" expanded="True" />
+                <Node name="Views" expanded="True">
+                  <Node name="Home" expanded="True" />
+                </Node>
               </Node>
             </Node>
+            <Node name="Gateways" expanded="True">
+              <Node name="Gateway" expanded="True" />
+            </Node>
             <Node name="Services" expanded="True">
-              <Node name="Discount" expanded="True">
-                <Node name="Services.Discount" expanded="True">
-                  <Node name="Controllers" expanded="True">
-                    <Node name="DiscountsController.cs" selected="True" />
-                  </Node>
+              <Node name="Catalog" expanded="True">
+                <Node name="Services.Catalog" expanded="True">
+                  <Node name="Controllers" expanded="True" />
                   <Node name="Services" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Order" expanded="True">
+                <Node name="Services.Order.API" expanded="True" />
+                <Node name="Services.Order.Application" expanded="True">
+                  <Node name="Consumers" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Services.Payment" expanded="True">
+                <Node name="Services.FakePayment" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Models" expanded="True" />
                 </Node>
               </Node>
             </Node>
@@ -32,22 +54,41 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Gateways.Gateway PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.Services.Discount.Services.Discount PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Services.PhotoStock.Services.PhotoStock PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Services.Order.Services.Order.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Frontend.ECommerce.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.Services.Basket.Services.Basket PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Discount/Services.Discount/Services/DiscountService.cs" relfile="Services/Discount/Services.Discount/Services/DiscountService.cs" line="25" column="1" />
+      <Breakpoint file="/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Order/Services.Order.Application/Handlers/CreateOrderHandler.cs" relfile="Services/Order/Services.Order.Application/Handlers/CreateOrderHandler.cs" line="23" column="1" />
+      <Breakpoint file="/Users/oguzhankaya/Projects/ECommerceMicroservices/Frontends/ECommerce.Web/Controllers/AuthController.cs" relfile="Frontends/ECommerce.Web/Controllers/AuthController.cs" line="38" column="1" />
+      <Breakpoint file="/Users/oguzhankaya/Projects/ECommerceMicroservices/Frontends/ECommerce.Web/Handlers/ResourceOwnerPasswordTokenHandler.cs" relfile="Frontends/ECommerce.Web/Handlers/ResourceOwnerPasswordTokenHandler.cs" line="48" column="1" />
+      <Breakpoint file="/Users/oguzhankaya/Projects/ECommerceMicroservices/Frontends/ECommerce.Web/Handlers/ResourceOwnerPasswordTokenHandler.cs" relfile="Frontends/ECommerce.Web/Handlers/ResourceOwnerPasswordTokenHandler.cs" line="28" column="1" />
+      <Breakpoint file="/Users/oguzhankaya/Projects/ECommerceMicroservices/Frontends/ECommerce.Web/Handlers/ResourceOwnerPasswordTokenHandler.cs" relfile="Frontends/ECommerce.Web/Handlers/ResourceOwnerPasswordTokenHandler.cs" line="15" column="1" />
+      <Breakpoint file="/Users/oguzhankaya/Projects/ECommerceMicroservices/Frontends/ECommerce.Web/Controllers/CoursesController.cs" relfile="Frontends/ECommerce.Web/Controllers/CoursesController.cs" line="42" column="1" />
+      <Breakpoint file="/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Catalog/Services.Catalog/Controllers/CoursesController.cs" relfile="Services/Catalog/Services.Catalog/Controllers/CoursesController.cs" line="49" column="1" />
+      <Breakpoint file="/Users/oguzhankaya/Projects/ECommerceMicroservices/Services/Catalog/Services.Catalog/Services/CourseService.cs" relfile="Services/Catalog/Services.Catalog/Services/CourseService.cs" line="80" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations>
     <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
       <Items>
+        <StartupItem ItemId="{ED510335-358B-4DFF-9EE1-2586D7FD937F}" ItemName="ECommerce.Web" ConfigurationId="FreeCourse.Web" />
         <StartupItem ItemId="{2E9807B1-3B39-4E8F-855F-3CA96FC16B1B}" ItemName="ECommerceMicroservices.IdentityServer" ConfigurationId="SelfHost" />
+        <StartupItem ItemId="{B410261B-A950-4738-9D12-49C6B54DD8EC}" ItemName="Gateway" ConfigurationId="Default" />
+        <StartupItem ItemId="{0BFF5AE9-AFEB-4595-888F-E1A87D9540CA}" ItemName="Services.Basket" ConfigurationId="Services.Basker" />
+        <StartupItem ItemId="{431D1284-9BB6-4E80-A5E8-52287BF6FCF7}" ItemName="Services.Catalog" ConfigurationId="Default" />
         <StartupItem ItemId="{FC5B643F-BB3B-491D-893A-3BA7E85142AE}" ItemName="Services.Discount" ConfigurationId="Default" />
+        <StartupItem ItemId="{0E9480EF-3B80-4610-8F5D-076EFC414327}" ItemName="Services.FakePayment" ConfigurationId="Default" />
+        <StartupItem ItemId="{D680D579-B6CB-44A3-A866-2D4F1054A486}" ItemName="Services.Order.API" ConfigurationId="Default" />
+        <StartupItem ItemId="{F840890A-9421-4360-B8A7-94FE4161EA9B}" ItemName="Services.PhotoStock" ConfigurationId="Default" />
       </Items>
     </MultiItemSolutionRunConfiguration>
   </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.Services.Services.Payment.Services.FakePayment PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Http;
 
 namespace Microservices.Shared.Services
 {
-  public class SharedIdentityService : ISharedIdentiyService
+  public class SharedIdentityService : ISharedIdentityService
   {
     private IHttpContextAccessor _httpContextAccessor;
 

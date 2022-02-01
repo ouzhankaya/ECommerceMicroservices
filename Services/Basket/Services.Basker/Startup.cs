@@ -40,7 +40,7 @@ namespace Services.Basket
         opt.RequireHttpsMetadata = false;
       });
       services.AddHttpContextAccessor();
-      services.AddScoped<ISharedIdentiyService, SharedIdentityService>();
+      services.AddScoped<ISharedIdentityService, SharedIdentityService>();
       services.AddScoped<IBasketService, BasketService>();
       services.Configure<RedisSettings>(Configuration.GetSection("RedisSettings"));
 

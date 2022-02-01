@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "1A0oAblr1RZDiRqSQu0m0e1OTBGdBmwgcAtrcIsOHuZU1gOlh5MR/28XVAoOePXKM3Puhm6DvNSRY9lEYOsknA==",
+  "success": true,
+  "projectFilePath": "/Users/oguzhankaya/Projects/ECommerceMicroservices/Gateways/Gateway/Gateway.csproj",
+  "expectedPackageFiles": [
+    "/Users/oguzhankaya/.nuget/packages/fluentvalidation/9.3.0/fluentvalidation.9.3.0.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/5.0.4/microsoft.aspnetcore.authentication.jwtbearer.5.0.4.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.aspnetcore.jsonpatch/5.0.0/microsoft.aspnetcore.jsonpatch.5.0.0.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.aspnetcore.middlewareanalysis/5.0.0/microsoft.aspnetcore.middlewareanalysis.5.0.0.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/5.0.0/microsoft.aspnetcore.mvc.newtonsoftjson.5.0.0.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.extensions.diagnosticadapter/3.1.10/microsoft.extensions.diagnosticadapter.3.1.10.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.7.1/microsoft.identitymodel.jsonwebtokens.6.7.1.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.identitymodel.logging/6.7.1/microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.identitymodel.protocols/6.7.1/microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.7.1/microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.identitymodel.tokens/6.7.1/microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/ocelot/17.0.1/ocelot.17.0.1.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/system.identitymodel.tokens.jwt/6.7.1/system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

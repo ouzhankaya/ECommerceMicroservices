@@ -18,7 +18,10 @@ namespace ECommerceMicroservices.IdentityServer
          new ApiResource("resource_catalog"){Scopes = {"catalog_fullpermission"}},
          new ApiResource("resource_photo_stock"){Scopes = {"photo_stock_fullpermission"}},
          new ApiResource("resource_basket"){Scopes = {"basket_fullpermission"}},
-          new ApiResource("resource_discount"){Scopes = {"discount_fullpermission"}},
+         new ApiResource("resource_discount"){Scopes = {"discount_fullpermission"}},
+         new ApiResource("resource_order"){Scopes = {"order_fullpermission"}},
+         new ApiResource("resource_payment"){Scopes = {"payment_fullpermission"}},
+           new ApiResource("resource_gateway"){Scopes = {"gateway_fullpermission"}},
          new ApiResource(IdentityServerConstants.LocalApi.ScopeName)
       };
 
@@ -39,6 +42,9 @@ namespace ECommerceMicroservices.IdentityServer
                new ApiScope("photo_stock_fullpermission", "Full access to Photo Stock microservice"),
                new ApiScope("basket_fullpermission", "Full access to Basket microservice"),
                new ApiScope("discount_fullpermission", "Full access to Discount microservice"),
+               new ApiScope("order_fullpermission", "Full access to Order microservice"),
+               new ApiScope("payment_fullpermission", "Full access to Payment microservice"),
+                 new ApiScope("gateway_fullpermission", "Full access to Gateway"),
                new ApiScope(IdentityServerConstants.LocalApi.ScopeName)
             };
 
@@ -51,7 +57,7 @@ namespace ECommerceMicroservices.IdentityServer
                   ClientId = "AspNetMvcClient",
                   ClientSecrets = {new Secret("SecretKey".Sha256())},
                   AllowedGrantTypes = GrantTypes.ClientCredentials,
-                  AllowedScopes = {"catalog_fullpermission", "photo_stock_fullpermission", IdentityServerConstants.LocalApi.ScopeName }
+                  AllowedScopes = {"catalog_fullpermission", "photo_stock_fullpermission", "gateway_fullpermission", IdentityServerConstants.LocalApi.ScopeName }
                 },
                  new Client
                 {
@@ -60,7 +66,7 @@ namespace ECommerceMicroservices.IdentityServer
                   AllowOfflineAccess = true,
                   ClientSecrets = {new Secret("SecretKey".Sha256())},
                   AllowedGrantTypes = GrantTypes.ResourceOwnerPassword,
-                  AllowedScopes = {"basket_fullpermission","discount_fullpermission",IdentityServerConstants.StandardScopes.Email, IdentityServerConstants.StandardScopes.OpenId, IdentityServerConstants.StandardScopes.Profile,
+                  AllowedScopes = {"basket_fullpermission","discount_fullpermission", "order_fullpermission","payment_fullpermission","gateway_fullpermission",IdentityServerConstants.StandardScopes.Email, IdentityServerConstants.StandardScopes.OpenId, IdentityServerConstants.StandardScopes.Profile,
                    IdentityServerConstants.StandardScopes.OfflineAccess, IdentityServerConstants.LocalApi.ScopeName, "roles"},
                   AccessTokenLifetime = 1* 60* 60,
                   RefreshTokenExpiration = TokenExpiration.Absolute,

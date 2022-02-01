@@ -39,7 +39,7 @@ namespace Services.Discount
       });
 
       services.AddHttpContextAccessor();
-      services.AddScoped<ISharedIdentiyService, SharedIdentityService>();
+      services.AddScoped<ISharedIdentityService, SharedIdentityService>();
       services.AddScoped<IDiscountService, DiscountService>();
       services.AddControllers(opt => {
         opt.Filters.Add(new AuthorizeFilter(requireAuthorizePolicy));
